@@ -1,0 +1,12 @@
+package variousConcepts;
+
+import org.openqa.selenium.WebDriver;
+
+public class LearnLocators {
+	
+	WebDriver driver;
+	public void init() {
+		System.setProperty("webdriver.chrome.driver", "");
+	}
+
+}
